@@ -1,4 +1,5 @@
 # HappyLens 😊
+A real-time computer vision project for smile detection using facial landmarks.
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green)
@@ -78,7 +79,7 @@ smile_detection_system/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/happylens.git
+git clone https://github.com/Ma5Codes/happylens.git
 ```
 
 ### 2. Navigate to the project folder
